@@ -1,1 +1,1 @@
-# lab_dsa_1
+In this study, I sorted a random array of elements whose values did not exceed 100,000 from 50,000 to 1 million elements in a dynamically allocated array and calculated the time it took to sort the array.
